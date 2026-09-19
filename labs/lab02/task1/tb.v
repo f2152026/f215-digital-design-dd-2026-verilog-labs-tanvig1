@@ -14,6 +14,7 @@ module tb;
   wire  t_y;
 
   // TODO: instantiate DUT here, connecting t_i0, t_i1, t_s, t_y to its ports
+  // bro i'll cry
 DUT U1(
   .I0(t_i0),
   .I1(t_i1),
