@@ -3,6 +3,7 @@
 //
 // Goal: apply all 8 combinations of I0, I1, S (5 time units apart) to DUT
 // and observe the output. Fill in every TODO below.
+
 module tb;
 
   // TODO: declare the three DUT inputs as the appropriate variable type.
