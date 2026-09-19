@@ -15,6 +15,7 @@ module lut #(
   reg [WIDTH-1:0] mem [0:DEPTH-1];
 
   integer i;
+  
 
   // TODO: initialize mem[i] = i*i for every i from 0 to DEPTH-1.
   // Use an initial block with a for loop -- this is the only place a ROM's
