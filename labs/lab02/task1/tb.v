@@ -20,6 +20,7 @@ DUT U1(
   .S(t_s),
   .Y(t_y)
 );
+
  
   // Waveform dump configuration
   string vcd_file;
